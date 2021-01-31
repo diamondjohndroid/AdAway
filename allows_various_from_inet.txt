@@ -2,7 +2,6 @@
 # grep -vxf $WHITELIST $HOST > $TEMP
 # tcpdump -i any -p -l -v -t -s 512 'udp dst port 53'
 # tcpdump -vvAs0 port 53
-0--e.info
 mixplorer.com
 wikimedia.org
 www.wikipedia.org
