@@ -3,10 +3,12 @@ apps.crashlytics.com
 beta.crashlytics.com
 blog.crashlytics.com
 calendar.crashlytics.com
+cm.crashlytics.com
 crashlytics.com
 docs.crashlytics.com
 download.crashlytics.com
 e.crashlytics.com
+firebase-settings.crashlytics.com
 report.crashlytics.com
 reports.crashlytics.com
 settings.crashlytics.com
