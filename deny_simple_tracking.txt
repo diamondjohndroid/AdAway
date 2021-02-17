@@ -1,0 +1,38 @@
+# Basic tracking list by Disconnect
+# License: GPLv3
+# Contact: support [at] disconnect.me
+
+127.0.0.1 adjust.io
+127.0.0.1 airbrake.io
+127.0.0.1 appboy.com
+127.0.0.1 appsflyer.com
+127.0.0.1 apsalar.com
+127.0.0.1 bango.combango.org
+127.0.0.1 bango.net
+127.0.0.1 basic-check.disconnect.me
+127.0.0.1 bkrtx.com
+127.0.0.1 bluekai.com
+127.0.0.1 bugsense.com
+127.0.0.1 burstly.com
+127.0.0.1 chartboost.com
+127.0.0.1 count.ly
+127.0.0.1 crashlytics.com
+127.0.0.1 crittercism.com
+127.0.0.1 custom-blacklisted-tracking-example.com
+127.0.0.1 do-not-tracker.org
+127.0.0.1 eviltracker.net
+127.0.0.1 flurry.com
+127.0.0.1 getexceptional.com
+127.0.0.1 inmobi.com
+127.0.0.1 jumptap.com
+127.0.0.1 localytics.com
+127.0.0.1 mixpanel.com
+127.0.0.1 mobile-collector.newrelic.com
+127.0.0.1 mobileapptracking.com
+127.0.0.1 playtomic.com
+127.0.0.1 stathat.com
+127.0.0.1 supercell.net
+127.0.0.1 tapjoy.com
+127.0.0.1 trackersimulator.org
+127.0.0.1 usergrid.com
+127.0.0.1 vungle.com
